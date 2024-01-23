@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sruthi-rajesh/chatbot/static/css/main.6e2a7cf5.css",
+    "main.js": "/Sruthi-rajesh/chatbot/static/js/main.00c35bc6.js",
+    "static/js/787.5e371921.chunk.js": "/Sruthi-rajesh/chatbot/static/js/787.5e371921.chunk.js",
+    "index.html": "/Sruthi-rajesh/chatbot/index.html",
+    "main.6e2a7cf5.css.map": "/Sruthi-rajesh/chatbot/static/css/main.6e2a7cf5.css.map",
+    "main.00c35bc6.js.map": "/Sruthi-rajesh/chatbot/static/js/main.00c35bc6.js.map",
+    "787.5e371921.chunk.js.map": "/Sruthi-rajesh/chatbot/static/js/787.5e371921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e2a7cf5.css",
+    "static/js/main.00c35bc6.js"
+  ]
+}
